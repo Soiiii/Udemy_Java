@@ -15,7 +15,7 @@ package soiiii;
 import java.util.Arrays;
 import java.util.Scanner;
 
-class Main {
+class ArrayChallenge2 {
     private static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
