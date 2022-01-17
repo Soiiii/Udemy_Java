@@ -2,7 +2,7 @@ package soiiii;
 
 import java.util.Scanner;
 
-public class Main {
+public class ArrayChallenge3 {
         private static Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
 
